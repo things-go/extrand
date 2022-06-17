@@ -3,10 +3,10 @@
 
 [![GoDoc](https://godoc.org/github.com/things-go/extrand?status.svg)](https://godoc.org/github.com/things-go/extrand)
 [![Go.Dev reference](https://img.shields.io/badge/go.dev-reference-blue?logo=go&logoColor=white)](https://pkg.go.dev/github.com/things-go/extrand?tab=doc)
-[![codecov](https://codecov.io/gh/things-go/extrand/branch/master/graph/badge.svg)](https://codecov.io/gh/things-go/extrand)
+[![codecov](https://codecov.io/gh/things-go/extrand/branch/main/graph/badge.svg)](https://codecov.io/gh/things-go/extrand)
 ![Action Status](https://github.com/things-go/extrand/workflows/Go/badge.svg)
 [![Go Report Card](https://goreportcard.com/badge/github.com/things-go/extrand)](https://goreportcard.com/report/github.com/things-go/extrand)
-[![License](https://img.shields.io/github/license/things-go/extrand)](https://github.com/things-go/extrand/raw/master/LICENSE)
+[![License](https://img.shields.io/github/license/things-go/extrand)](https://github.com/things-go/extrand/raw/main/LICENSE)
 [![Tag](https://img.shields.io/github/v/tag/things-go/extrand)](https://github.com/things-go/extrand/tags)
 
 
