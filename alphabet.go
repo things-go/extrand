@@ -22,7 +22,7 @@ import (
 	"unsafe"
 )
 
-// previous defined bytes
+// Previous defined bytes, do not change this.
 var (
 	DefaultAlphabet   = []byte("QWERTYUIOPLKJHGFDSAZXCVBNMabcdefghijklmnopqrstuvwxyz")
 	DefaultDigit      = []byte("0123456789")
