@@ -1,5 +1,5 @@
-# x
- go stand library extend api
+# extrand
+ extend rand
 
 [![GoDoc](https://godoc.org/github.com/things-go/extrand?status.svg)](https://godoc.org/github.com/things-go/extrand)
 [![Go.Dev reference](https://img.shields.io/badge/go.dev-reference-blue?logo=go&logoColor=white)](https://pkg.go.dev/github.com/things-go/extrand?tab=doc)
